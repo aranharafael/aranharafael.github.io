@@ -84,17 +84,17 @@ author:
   avatar           : "FotoAranha3.png"
   bio              : "Physicist, working in the field of Gravitaion, Cosmology and Astrophysics."
   location         : "Rio de Janeiro, Brazil"
-  employer         :
+  employer         : "Rio de Janeiro State University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "rafael.aranha@uerj.br"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "facebook"
   foursquare       :
   github           : "academicpages"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "linkedin"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "youtube"
   wikipedia        :
 
 
