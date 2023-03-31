@@ -80,21 +80,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rafael F. Aranha"
+  name             : "Rafael Aranha"
   avatar           : "FotoAranha3.png"
-  bio              : "Physicist, working in the field of Gravitaion, Cosmology and Astrophysics."
-  location         : "Rio de Janeiro, Brazil"
-  employer         : "Rio de Janeiro State University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Físico, atua na área de Gravitação, Cosmologia e Astrofísica."
+  location         : "Rio de Janeiro, RJ"
+  employer         : "Universidade do Estado do Rio de Janeiro"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "rafael.aranha@uerj.br"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "facebook"
+  facebook         : #"facebook"
   foursquare       :
   github           : "academicpages"
   google_plus      :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : #"linkedin"
+  orcid            : "http://orcid.org/0000-0002-9832-2379"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "youtube"
+  youtube          : #"youtube"
   wikipedia        :
 
 
