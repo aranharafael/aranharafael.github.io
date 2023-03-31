@@ -1,26 +1,48 @@
 # main links links
 main:
   
-  - title: "Cursos"
-    url: /cursos/ 
-  
-  - title: "Pesquisa"
-    url: /pesquisa/
-  
-  - title: "Publicações"
-    url: /publicacoes/
-  
-  - title: "Eventos"
-    url: /eventos/  
-  
-  - title: "Administração"
-    url: /administracao/
+- title: "Publications"
+    url: /publications/
+
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
         
+  - title: "Blog Posts"
+    url: /year-archive/
+    
   - title: "CV"
     url: /cv/
     
-  - title: "Outros Interesses"
-    url: /interesses/
+  - title: "Guide"
+    url: /markdown/  
+  
+  
+#   - title: "Cursos"
+#     url: /cursos/ 
+  
+#   - title: "Pesquisa"
+#     url: /pesquisa/
+  
+#   - title: "Publicações"
+#     url: /publicacoes/
+  
+#   - title: "Eventos"
+#     url: /eventos/  
+  
+#   - title: "Administração"
+#     url: /administracao/
+        
+#   - title: "CV"
+#     url: /cv/
     
-  - title: "Contato"
-    url: /contato/
+#   - title: "Outros Interesses"
+#     url: /interesses/
+    
+#   - title: "Contato"
+#     url: /contato/
