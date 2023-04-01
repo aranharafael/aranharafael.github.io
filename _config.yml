@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "pt-BR"
+locale                   : "en-US"
 title                    : "Rafael Aranha"
 title_separator          : "-"
 name                     : &name "Rafael Aranha"
-description              : &description "Físico, atua na área de Gravitação."
+description              : &description "Fisico, atua na área de Gravitacao."
 url                      : https://aranharafael.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aranharafael/aranharafael.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rafael Aranha"
   avatar           : "FotoAranha3.png"
-  bio              : "Físico, atua na área de Gravitação, Cosmologia e Astrofísica."
+  bio              : "Fisico, atua na área de Gravitacao, Cosmologia e Astrofisica."
   location         : "Rio de Janeiro, RJ"
   employer         : "Universidade do Estado do Rio de Janeiro"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
