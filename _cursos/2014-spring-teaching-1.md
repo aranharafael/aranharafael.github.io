@@ -1,5 +1,5 @@
 ---
-title: "Experiência de ensino 1"
+title: "Teaching experience 1"
 collection: cursos
 type: "Undergraduate course"
 permalink: /cursos/2014-spring-teaching-1
