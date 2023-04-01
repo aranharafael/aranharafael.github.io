@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Olá, eu me chamo Rafael Aranha e sou professor do [Instituto de Física](https://www.fis.uerj.br/) da [Universidade do Estado do Rio de Janeiro](https://www.uerj.br/). Como professor universitário, trabalho em diversas frentes, mais precisamente em ensino, pesquisa, extensão, além do setor administrativo. Minha área de atuação em pesquisa concentra-se na área de Gravitação, Cosmologia e Astrofísica, cujos tópicos que mais me interessam são Relatividade Numérica e Métodos de Física Teórica aplicados à Relatividade Geral. No setor de ensino, ministro disciplinas obrigatórias de Mecânica Clássica, de Física Matemática e de cadeiras eletivas associadas à minha área de pesquisa. Também oriento estudantes que visam iniciar carreira acadêmica em pesquisa. Atualmente represento o Departamento de Física Teórica como chefe de departamento.
+Olá, eu me chamo Rafael Aranha e sou professor do [Instituto de Física](https://www.fis.uerj.br/) da [Universidade do Estado do Rio de Janeiro](https://www.uerj.br/), locado no [Departamento de Física Teórica](https://www.fis.uerj.br/index.php/departamento-de-fisica-teorica/) (DFT). Como professor universitário, trabalho em diversas frentes, principalmente em ensino e pesquisa. Minha área de atuação em pesquisa concentra-se em Gravitação, Cosmologia e Astrofísica, cujos tópicos mais recorrentes são Relatividade Numérica e Métodos de Física Teórica aplicados à Relatividade Geral. No setor de ensino, ministro disciplinas obrigatórias de Mecânica Clássica e Física Matemática, além de cadeiras eletivas associadas à minha área de pesquisa. Também oriento estudantes que visam iniciar carreira acadêmica de pesquisa. No setor administrativo, atualmente, represento o DFT como chefe de departamento e como membro da coordenação de graduação.
 
-## Conteúdo do site:
+## Conteúdo principal do site:
 
 * Cursos
 * Pesquisa
 * Publicações
 * Eventos
 * Administração
-* Outros interesses
-* Contato
