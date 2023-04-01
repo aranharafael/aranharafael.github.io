@@ -16,8 +16,6 @@ Olá, eu me chamo Rafael Aranha e sou professor do [Instituto de Física](https:
 * Pesquisa
 * Publicações
 * Eventos
-  * Perticipação em eventos
-  * Organização de escolas
 * Administração
 * Outros interesses
 * Contato
