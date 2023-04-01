@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rafael Aranha"
   avatar           : "FotoAranha3.png"
-  bio              : "Fisico, atua na área de Gravitacao."
+  bio              : "Fisico"
   location         : "Rio de Janeiro, RJ"
   employer         : "UERJ"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
