@@ -1,6 +1,6 @@
 ---
 title: "Experiência de ensino 1"
-collection: cursos
+collection: Cursos
 type: "Undergraduate course"
 permalink: /cursos/2014-spring-teaching-1
 venue: "University 1, Department"
