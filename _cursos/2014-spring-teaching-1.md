@@ -2,7 +2,7 @@
 title: "Experiência de ensino 1"
 collection: cursos
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /cursos/2014-spring-teaching-1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
