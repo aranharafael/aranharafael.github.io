@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 4"
 collection: publicações
-permalink: /publication/2009-10-01-paper-title-number-4
+permalink: /publicações/2009-10-01-paper-title-number-4
 excerpt: 'This paper is about the number 4.'
 date: 2023-10-01
 venue: 'Journal 4'
