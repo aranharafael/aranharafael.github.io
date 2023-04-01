@@ -4,11 +4,11 @@ main:
 - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
     url: /teaching/    
+    
+  - title: "Talks"
+    url: /talks/      
     
   - title: "Portfolio"
     url: /portfolio/
@@ -21,28 +21,3 @@ main:
     
   - title: "Guide"
     url: /markdown/  
-  
-  
-#   - title: "Cursos"
-#     url: /cursos/ 
-  
-#   - title: "Pesquisa"
-#     url: /pesquisa/
-  
-#   - title: "Publicações"
-#     url: /publicacoes/
-  
-#   - title: "Eventos"
-#     url: /eventos/  
-  
-#   - title: "Administração"
-#     url: /administracao/
-        
-#   - title: "CV"
-#     url: /cv/
-    
-#   - title: "Outros Interesses"
-#     url: /interesses/
-    
-#   - title: "Contato"
-#     url: /contato/
