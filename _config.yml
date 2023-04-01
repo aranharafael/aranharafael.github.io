@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Rafael Aranha"
   avatar           : "FotoAranha3.png"
-  bio              : "Fisico, atua na área de Gravitacao, Cosmologia e Astrofisica."
+  bio              : "Fisico, atua na área de Gravitacao."
   location         : "Rio de Janeiro, RJ"
-  employer         : "Universidade do Estado do Rio de Janeiro"
+  employer         : "UERJ"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "rafael.aranha@uerj.br"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : #"facebook"
   foursquare       :
-  github           : "academicpages"
+  github           : "aranharafael"
   google_plus      :
   keybase          :
   instagram        :
