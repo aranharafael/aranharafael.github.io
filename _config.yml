@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 title                    : "Rafael Aranha"
 title_separator          : "-"
-name                     : &name "Rafael F. Aranha"
-description              : &description "Physicist, working in the field of Gravitation."
+name                     : &name "Rafael Aranha"
+description              : &description "Físico, atua na área de Gravitação."
 url                      : https://aranharafael.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aranharafael/aranharafael.github.io"
