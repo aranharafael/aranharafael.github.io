@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "pt-BR"
+locale                   : "en-US"
 title                    : "Rafael Aranha"
 title_separator          : "-"
 name                     : &name "Rafael Aranha"
-description              : &description "Fisico, atua na área de Gravitacao."
+description              : &description "Physicist."
 url                      : https://aranharafael.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aranharafael/aranharafael.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Rafael Aranha"
   avatar           : "FotoAranha3.png"
-  bio              : "Fisico"
-  location         : "Rio de Janeiro, RJ"
-  employer         : "UERJ"
+  bio              : "Physicist"
+  location         : "Rio de Janeiro, RJ, Brazil"
+  employer         : "RJ State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "rafael.aranha@uerj.br"
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "facebook"
+  facebook         : #"facebook"
   foursquare       :
   github           : "aranharafael"
   google_plus      :
   keybase          :
-  instagram        : "aranhainsta"
+  instagram        : #"aranhainsta"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : #"linkedin"
@@ -109,11 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          : "youtube"
+  youtube          : #"youtube"
   wikipedia        :
 
 
