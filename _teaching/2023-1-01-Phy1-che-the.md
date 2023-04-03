@@ -4,7 +4,7 @@ collection: teaching
 type: "Regular Course"
 permalink: /teaching/2023-1-01-Phy1-che-the
 venue: "RJ State University, Department of Theoretical Physics"
-date: 2023
+date: 2023-22-03
 location: "Rio de Janeiro, Brazil"
 ---
 
