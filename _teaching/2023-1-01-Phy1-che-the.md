@@ -1,3 +1,4 @@
+---
 title: "Physics 1 (Theory)"
 collection: teaching
 type: "Course"
