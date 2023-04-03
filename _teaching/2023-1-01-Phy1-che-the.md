@@ -8,6 +8,8 @@ date: 2023-03-22
 location: "Rio de Janeiro, Brazil"
 ---
 
+Basic mechanics for chemistry students.
+
 ## Goals
 
 Introduce the basic concepts of Newtonian mechanics combined with the fundamentals of differential and integral calculus. Thus, the student will be able to understand the concepts of basic physics and continue their studies in more advanced areas such as thermal physics, waves, electromagnetism and modern physics.
