@@ -22,5 +22,5 @@ Introduce the basic concepts of Newtonian mechanics combined with the fundamenta
 
 | List                                                                | Description                                                  |
 | ------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [List 01](https://aranharafael.github.io/files/QuiFis1/Lista01.pdf) | Structure of matter, measurementes and units, 1D kinematics  |
+| [List 01](https://aranharafael.github.io/files/QuiFis1/Lista01.pdf) | Structure of matter, measurements and units, 1D kinematics  |
 
