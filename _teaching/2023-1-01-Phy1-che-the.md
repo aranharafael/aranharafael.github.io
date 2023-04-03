@@ -12,10 +12,10 @@ location: "Rio de Janeiro, Brazil"
 
 Introduce the basic concepts of Newtonian mechanics combined with the fundamentals of differential and integral calculus. Thus, the student will be able to understand the concepts of basic physics and continue their studies in more advanced areas such as thermal physics, waves, electromagnetism and modern physics.
 
-##Syllabus
+## Syllabus
 
 * [Syllabus - 2023-1](https://aranharafael.github.io/files/QuiFis1/Syllabus_2023_1.pdf)
 
-##Exercises (Lists)
+## Exercises (Lists)
 
 * [List 01](https://aranharafael.github.io/files/QuiFis1/Lista01.pdf)
