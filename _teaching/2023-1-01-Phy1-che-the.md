@@ -21,4 +21,4 @@ Syllabus
 Exercises (Lists)
 ======
 
-* [List 01](https://aranharafael.github.io/files/QuiFis1/Lista1.pdf)
+* [List 01](https://aranharafael.github.io/files/QuiFis1/Lista01.pdf)
