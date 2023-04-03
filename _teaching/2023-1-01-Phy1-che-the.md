@@ -18,7 +18,7 @@ Introduce the basic concepts of Newtonian mechanics combined with the fundamenta
 Syllabus
 ======
 
-* [Syllabus - 2023-1](https://aranharafael.github.io/files/QuiFis1/Syllabus_2023_1)
+* [Syllabus - 2023-1](https://aranharafael.github.io/files/QuiFis1/Syllabus_2023_1.pdf)
 
 Exercises (Lists)
 ======
