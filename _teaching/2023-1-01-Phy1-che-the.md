@@ -8,7 +8,7 @@ date: 2023-03-22
 location: "Rio de Janeiro, Brazil"
 ---
 
-> Basic mechanics for chemistry students.
+> Introductory mechanics for chemistry students.
 
 ## Goals
 

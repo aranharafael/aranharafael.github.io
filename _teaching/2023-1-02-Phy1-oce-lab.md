@@ -8,7 +8,7 @@ date: 2023-03-22
 location: "Rio de Janeiro, Brazil"
 ---
 
-> Basic mechanics for oceanography students (lab).
+> Introductory mechanics for oceanography students (lab).
 
 ## Goals
 
