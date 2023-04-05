@@ -2,7 +2,7 @@
 title: "Sobre a evolução conceitual acerca da formação de buracos negros"
 collection: publications
 permalink: /publication/2023-01-black-hole-formation
-excerpt: 'Text in portuguese.'
+excerpt: 'Text in Portuguese.'
 date: 2023-03-10
 venue: 'Cadernos de Astronomia'
 paperurl: 'https://periodicos.ufes.br/astronomia/article/view/40191'
