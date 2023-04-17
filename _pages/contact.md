@@ -13,6 +13,3 @@ author_profile: true
   3001D João Lyra Filho Pavilion<br />524 São Francisco Xavier Street<br /> Maracanã, Rio de Janeiro, RJ<br />Brazil<br /> 
 <address>
 
-> **Email**
-
-rafael.aranha@uerj.br{: .notice}
