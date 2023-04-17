@@ -1,22 +1,18 @@
 ---
+layout: archive
 permalink: /contact/
 title: "Contact"
 author_profile: true
 ---
 
-# Contact
-
 <img src='/images/uerj.jpg' width="600" heigth="300">
 
-## Address
+> **Address**
 
 <address>
 3001D João Lyra Filho Pavilion<br />524 São Francisco Xavier Street<br /> Maracanã, Rio de Janeiro, RJ<br />Brazil<br /> 
 <address>
 
-## Email
+> **Email**
 
-rafael.aranha@uerj.br
-{: .notice}
-
- 
+rafael.aranha@uerj.br{: .notice}
