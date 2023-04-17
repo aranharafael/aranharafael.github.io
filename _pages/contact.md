@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /contact/
 title: "Contact"
+permalink: /contact/
 author_profile: true
 ---
 
@@ -10,8 +10,8 @@ author_profile: true
 > **Address**
 
 <address>
- Rio de Janeiro State University<br />3001D João Lyra Filho Pavilion<br />524 São Francisco Xavier Street<br /> Maracanã, Rio de Janeiro, RJ<br />Brazil<br />rafael.aranha@uerj.br 
-<address>
+   Rio de Janeiro State University<br />3001D João Lyra Filho Pavilion<br />524 São Francisco Xavier Street<br /> Maracanã, Rio de Janeiro, RJ<br />Brazil 
+</address>
 
 > **Email**
 
