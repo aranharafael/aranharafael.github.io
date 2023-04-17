@@ -13,8 +13,3 @@ author_profile: true
    Rio de Janeiro State University<br />3001D João Lyra Filho Pavilion<br />524 São Francisco Xavier Street<br /> Maracanã, Rio de Janeiro, RJ<br />Brazil 
 </address>
 
-> **Email**
-
-rafael.aranha@uerj.br
-{: .notice}
-
