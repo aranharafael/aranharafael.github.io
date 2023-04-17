@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Rio de Janeiro State University, 2006
+* Sc.D in Physics (Gravitation and Cosmology), Brazilian Center for Physics Research, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2011-2013: Postdoc
+  * Georgia Institute of Technology (Georgia Tech)
+  * Duties included: Research in Numerical Relativity
+  * Supervisor: Pablo Laguna
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2013-2014: Postdoc
+  * Brazilian Center for Physics Research
+  * Duties included: Research in Numerical Relativity
+  * Supervisor: Ivano Damião Soares
+
+* 2015 - Today: Professor
+  * Rio de Janeiro State University
+  * Duties included: Research in Gravitation and Cosmology, teaching 
+  * 2023: Head of the Department of Theoretical Physics
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Numerical Relativity
+* Mathematical Methods in General Relativity
+* Numerical Methods for Differential Equations
+  * Spectral Methods
+  * Finite Differences
+* Teaching Physics in all levels
 
 Publications
 ======
@@ -53,7 +58,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
+
