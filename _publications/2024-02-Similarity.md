@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-Similarity
 excerpt: 'Text in English.'
 date: 2024-12-26
-venue: 'Classical and Quantum Gravity'
+venue: 'Physical Review D'
 paperurl: 'https://doi.org/10.1103/PhysRevD.110.124058'
 citation: 'R. F. Aranha, H. P. de Oliveira, &quot; Similarity in the Arnowitt-Deser-Misner mass from Brill and Teukolsky initial datasets beyond the linear approximation. &quot;, <i>Phys. Rev. D</i>, <b>110</b>, 124058 (2024).'
 ---
