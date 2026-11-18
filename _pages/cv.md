@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc. (Bachelor of Science) in Physics, Rio de Janeiro State University, 2006
-* D.Sc. (Doctor of Science) in Physical Sciences (Gravitation and Cosmology), Brazilian Center for Physics Research, 2011
+* D.Sc. (Doctor of Science) in Physics (Gravitation and Cosmology), Brazilian Center for Physics Research, 2011
 
 Work experience
 ======
