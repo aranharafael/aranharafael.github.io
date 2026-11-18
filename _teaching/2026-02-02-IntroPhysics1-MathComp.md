@@ -16,4 +16,4 @@ Newtonian mechanics is presented as a theory built upon a small number of princi
 
 ## Syllabus
 
-* [Syllabus - 2026-2](https://aranharafael.github.io/files/FisMat1/Syllabus_2026_2.pdf)
+* [Syllabus - 2026-2](https://aranharafael.github.io/files/Fis1MatInf/Syllabus_2026_2.pdf)
