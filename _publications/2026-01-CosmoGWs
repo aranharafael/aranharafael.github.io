@@ -1,0 +1,16 @@
+---
+title: "The Impact of Inclination, Redshift, and Mass Ratio Selection on Cosmological
+Constraints from Bright Sirens Beyond Conventional Fisher Approximations"
+collection: publications
+permalink: /publication/2026-01-CosmoGWs
+excerpt: 'Text in English.'
+date: 2026-10-23
+venue: 'arXiv'
+paperurl: ' arXiv:2610.32008v1'
+citation: 'Gustavo B. F. Lima, Rafael F. Aranha, Rodrigo S. Gonçalves, &quot; The Impact of Inclination, Redshift, and Mass Ratio Selection on Cosmological Constraints from Bright Sirens Beyond Conventional Fisher Approximations. &quot;, <i> arXiv:2610.32008v1 (2026).'
+---
+
+> **Abstract**
+
+Future generations of gravitational-wave observatories are projected to detect up to thousands bright siren events within a decade of operation. However, the precision of these cosmological forecasts depends heavily on the astrophysical assumptions embedded within the simulation pipelines. In this work, we systematically investigate the impact of variations in the binary mass ratio (q), the maximum observable inclination angle (ιmax), and the maximum redshift (zmax) on the constraints of the Hubble constant (H0) and the matter density parameter (Ωm). We perform our analyses based on the GWDALI framework, the GW Doublet Approximation, and the phenomenological waveform approximant IMRPhenomD. By adopting sets of non-spinning binary neutron star populations we explore the impact of astrophysical parameters on the constraints of cosmological parameters. Our results reveal a clear dichotomy in the observational requirements: while the statistical uncertainty on H0 falls below the falls below approximately 1.3% level for N≥400 events and drops under 0.9% once N≥800, a deep-redshift catalog (zmax≥1.0) is strictly required to effectively break parameter degeneracies and constrain the global geometry through Ωm. Furthermore, expanding the maximum inclination cutoff from the conservative 20∘ up to 40∘ substantially mitigates the correlation between distance and inclination.
+{: .notice}
