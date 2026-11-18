@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research aims to make the mathematical tools used in the study of General Relativity not only more rigorous but at the same time reliable. The four areas below give different angles on a single line of work that brings together theoretical physics, mathematical methods and scientific computation.
+My research aims to make the mathematical tools used in the study of General Relativity not only more rigorous but at the same time reliable. The four areas below give different angles on a single line of work that brings together theoretical physics, mathematical methods, scientific computation and educational techniques.
 
 > **Foundations of Numerical Relativity**
 
