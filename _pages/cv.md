@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Rio de Janeiro State University, 2006
-* Sc.D in Physics (Gravitation and Cosmology), Brazilian Center for Physics Research, 2011
+* B.Sc. (Bachelor of Science) in Physics, Rio de Janeiro State University, 2006
+* D.Sc. (Doctor of Science) in Physical Sciences (Gravitation and Cosmology), Brazilian Center for Physics Research, 2011
 
 Work experience
 ======
@@ -29,7 +29,7 @@ Work experience
 * 2015 - Today: Professor
   * Rio de Janeiro State University
   * Duties included: Research in Gravitation and Cosmology, teaching 
-  * 2023: Head of the Department of Theoretical Physics
+  * 2023-2026: Head of the Department of Theoretical Physics
   
 Skills
 ======
