@@ -1,0 +1,15 @@
+---
+title: "Baumgarte–Shapiro–Shibata–Nakamura formalism in cylindrical coordinates: Brill and Teukolsky waves in both linear and nonlinear regimes"
+collection: publications
+permalink: /publication/2026-01-BSSN_EPJC
+excerpt: 'Text in English.'
+date: 2026-02-24
+venue: ' The European Physical Journal C'
+paperurl: 'https://doi.org/10.48550/arXiv.2409.01527'
+citation: 'M. A. Alcoforado, R. F. Aranha, H. P. de Oliveira, &quot; Baumgarte–Shapiro–Shibata–Nakamura formalism in cylindrical coordinates: Brill and Teukolsky waves in both linear and nonlinear regimes. &quot;, <i>Eur. Phys. J. C</i>, <b>86</b>, 173 (2026).'
+---
+
+> **Abstract**
+
+In this article we present a numerical code, based on the collocation or pseudospectal method, which integrates the equations of the BSSN formalism in cylindrical coordinates. In order to validate the code, we carried out a series of tests, using three groups of initial data: (i) pure gauge evolution; (ii) Teukolsky quadrupole solution for low amplitudes and (iii) Brill and Teukolsky solutions with higher amplitudes, which account for a deviation from the linear regime when compared to the case of low amplitudes. In practically all cases, violations of the Hamiltonian and momentum constraints were analyzed. We also analyze the behavior of the lapse function, which can characterize the collapse of gravitational waves into black holes. Furthermore, all three groups of tests used different computational mesh resolutions and different gauge choices, thus providing a general scan of most of the numerical solutions adopted.
+{: .notice}
